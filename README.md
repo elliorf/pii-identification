@@ -1,6 +1,6 @@
 # vf-gr-dataeng-pii-identification
 
-This projects aims to provide a tool for pii identification to enable pseudoanonymization process for cloudification scope.
+This projects aims to provide a tool for personal identifiable information identification to enable pseudoanonymization process for cloudification scope.
 
 ## **How to Run the Application**
 
